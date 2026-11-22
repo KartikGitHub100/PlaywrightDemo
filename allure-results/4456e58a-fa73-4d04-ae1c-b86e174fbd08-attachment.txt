@@ -1,0 +1,37 @@
+All values in dropdown are: Select State
+All values in dropdown are: Andhra Pradesh
+All values in dropdown are: Arunachal Pradesh
+All values in dropdown are: Assam
+All values in dropdown are: Bihar
+All values in dropdown are: Chhattisgarh
+All values in dropdown are: Goa
+All values in dropdown are: Gujarat
+All values in dropdown are: Haryana
+All values in dropdown are: Himachal Pradesh
+All values in dropdown are: Jammu and Kashmir
+All values in dropdown are: Jharkhand
+All values in dropdown are: Karnataka
+All values in dropdown are: Kerala
+All values in dropdown are: Madhya Pradesh
+All values in dropdown are: Maharashtra
+All values in dropdown are: Manipur
+All values in dropdown are: Meghalaya
+All values in dropdown are: Mizoram
+All values in dropdown are: Nagaland
+All values in dropdown are: Odisha
+All values in dropdown are: Punjab
+All values in dropdown are: Rajasthan
+All values in dropdown are: Sikkim
+All values in dropdown are: Tamil Nadu
+All values in dropdown are: Telangana
+All values in dropdown are: Tripura
+All values in dropdown are: Uttarakhand
+All values in dropdown are: Uttar Pradesh
+All values in dropdown are: West Bengal
+All values in dropdown are: Andaman and Nicobar Islands
+All values in dropdown are: Chandigarh
+All values in dropdown are: Dadra and Nagar Haveli
+All values in dropdown are: Daman and Diu
+All values in dropdown are: Delhi
+All values in dropdown are: Lakshadweep
+All values in dropdown are: Puducherry
